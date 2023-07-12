@@ -1,0 +1,111 @@
+*{
+    background-color: aliceblue;
+    margin: 0;
+    padding: 0;
+}
+#about{
+    text-align: center;
+    padding:70px;
+    background-color: black;
+    color:white;
+}
+#n{
+    background-color: black;
+    font-size: 40px;
+}
+#hw{
+    text-decoration: none;
+    color:black;
+    flex-direction: row;
+    flex-wrap:wrap;
+    align-items: flex-end;
+}
+.name{
+    font-size: 50px;
+    font-weight: 200;
+}
+#self{
+    background-color: rgb(210, 210, 221);
+    flex-direction: row;
+    margin-bottom: 20px;
+}
+#para
+{
+    background-color: rgb(210, 210, 221);
+    margin-left: 300px;
+    margin-top: -270px;
+    margin-bottom: 70px;
+    font-size: 20px;
+}
+#na{
+    font-size: 30px;
+    background-color: rgb(210, 210, 221);
+    margin-left: 300px;
+}
+#photo{
+    border-radius: 20px;
+    height: 300px;
+    width: 200px;
+    margin-left: 50px;
+    margin-top: 30px;
+}
+#resume{
+    text-decoration: none;
+    font-size: 25px;
+    background-color: orange;
+    border-radius: 5px;
+    color: black;
+    margin-left: 300px;
+    border-width: 10px;
+    padding: 10px;
+    margin-top: -20px;
+}
+#portf{
+    align-items: center;
+    text-align: center;
+    
+
+}
+
+hr{
+    margin-left: 500px;
+    margin-right: 500px;
+    font-weight: 100;
+}
+#pa,#p
+{
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+}
+#pa{
+    font-size: 30px;
+    padding: 5px;
+}
+#tab1{
+    margin-left: 300px;
+    width:500px;
+    
+}
+#tab2{
+    margin-left: 800px;
+    margin-top: -220px;
+}
+
+form{
+    margin-top: 100px;
+}
+input{
+    border-radius: 5px;
+    width:300px;
+    height:50px;
+    font-size: 20px;
+    margin:10px;
+}
+button{
+    width: 150px;
+    height: 50px;
+    border-radius: 5px;
+    background-color: orange;
+    font-size: 20px;
+}
